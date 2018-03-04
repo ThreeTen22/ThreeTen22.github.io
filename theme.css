@@ -97,9 +97,9 @@ body {
     top: 20px;
 }
 
-//#content-area {
-    //margin-bottom: 50px
-//}
+#content-area {
+    margin-left: 10px
+}
 
 th[colspan="7"] {
     display: none;
